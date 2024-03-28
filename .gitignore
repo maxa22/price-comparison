@@ -1,0 +1,8 @@
+node_modules
+configuration.php
+log/
+.vscode
+.prettierrc
+.parcel-cache
+uploads
+vendor

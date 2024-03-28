@@ -1,0 +1,6 @@
+- Dashboard
+- Responsivnes
+- Cart order
+- Navigation
+- Auth
+- Scraping automatition

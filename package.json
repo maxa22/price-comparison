@@ -1,0 +1,21 @@
+{
+  "name": "digital-sketch-program",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "source": "scripts/main.js",
+  "browserslist": "> 0.5%, last 2 versions, not dead",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "repository": {
+    "type": "git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.9.3"
+  }
+}

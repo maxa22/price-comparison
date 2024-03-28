@@ -1,0 +1,23 @@
+{
+"functions": [
+"validate_name",
+"validate_email",
+"validate_pass",
+"register",
+"login",
+"edit_profile",
+"validate_phone",
+"check_pass_in_db",
+"change_password",
+"activate_user",
+"forgotten_password",
+"reset_forgotten_password",
+"get_all_users",
+"logout",
+"get_user_data",
+"get_products",
+"get_product",
+"get_categories",
+"get_price_history"
+]
+}
